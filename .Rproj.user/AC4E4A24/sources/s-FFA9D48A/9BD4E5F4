@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583532617220.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9BD4E5F4",
+    "lastKnownWriteTime" : 1583701828,
+    "last_content_update" : 1583701828540,
+    "path" : "~/Documents/Projects/data_science/site_photography/themes/sam/config.toml",
+    "project_path" : "themes/sam/config.toml",
+    "properties" : {
+        "cursorPosition" : "44,19",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
